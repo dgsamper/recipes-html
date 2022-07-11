@@ -1,0 +1,19 @@
+header,
+main,
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.recipe-ing,
+.recipe-steps {
+    height: 250px;
+    width: 500px;
+    /* border: 1px solid black; */ /* Border to see the exact div dimensions*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
