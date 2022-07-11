@@ -11,3 +11,4 @@ The purpose of this project was create a basic website with only HTML, following
 <b>Built with</b>
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
